@@ -1,4 +1,4 @@
-//Data Types in JS
+//Data Types in Js
 
 //Primitive Data types
 //Trivial Data type
