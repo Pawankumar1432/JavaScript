@@ -54,9 +54,9 @@ function find(value)
     return value>4
 }
 
-var ar=["M","A","D","H","U"]
+var ar=["P","A","V","A","N"]
 ar=ar.slice(0,5)
-ar=ar.join("")
+ar=ar.join("*")
 console.log(ar)
 
  
