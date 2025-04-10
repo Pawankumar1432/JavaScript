@@ -51,7 +51,7 @@ console.log(res)
 
 function find(value)
 {
-    return value>4
+    return value>5
 }
 
 var ar=["P","A","V","A","N"]
