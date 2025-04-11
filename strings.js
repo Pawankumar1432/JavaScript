@@ -19,7 +19,6 @@ console.log("5. split(' '):", sample.split(" "));
 
 // 6. indexOf()
 console.log("6. indexOf('World'):", sample.indexOf("World"));
-
 // 7. lastIndexOf()
 console.log("7. lastIndexOf('l'):", sample.lastIndexOf("l"));
 
