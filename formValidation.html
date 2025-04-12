@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form Validation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .error {
+      color: red;
+      font-size: 0.9em;
+    }
+  </style>
+  <script src="./formValidation.js"></script>
+</head>
+
+<body>
+
+  <h2>Registration Form</h2>
+  <form id="myForm" onsubmit="return validateForm()">
+    <label>Name:</label><br>
+    <input type="text" id="name">
+    <div id="nameError" class="error"></div><br>
+
+    <label>Email:</label><br>
+    <input type="email" id="email">
+    <div id="emailError" class="error"></div><br>
+
+    <label>Password:</label><br>
+    <input type="password" id="password">
+    <div id="passwordError" class="error"></div><br>
+
+    <button type="submit">Submit</button>
+  </form>  
+</body>
+</html>
