@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input,button{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+ input:hover{
+    background-attachment: fixed;
+    background-color: aqua;
+}
+button:hover{
+    background-attachment: fixed;
+    background-color: aqua;
+}  
