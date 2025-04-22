@@ -13,6 +13,7 @@ if (a<b)
     console.log("B is greater than A")
 }
 
+
 // 2)if-else
 var c=15
 var d=9
