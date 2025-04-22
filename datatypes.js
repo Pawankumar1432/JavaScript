@@ -38,7 +38,7 @@ console.log(b)
 console.log(typeof(b))
 
 
-//Non-Primitive Data type
+//Non-Primitive Data types
 //Array
 var num=[1,2,3,4,5,6]
 console.log(num)
