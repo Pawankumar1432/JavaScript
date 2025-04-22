@@ -10,7 +10,7 @@ var a=123
 console.log(a)
 console.log(typeof(a))
 
-//Sting
+//Stings
 var name="Pavan"
 console.log(name)
 console.log(typeof(name))
