@@ -16,7 +16,7 @@ console.log(name)
 console.log(typeof(name))
 
 
-//Boolean
+//Boolean type using type of opertor
 var s=true
 console.log(s)
 console.log(typeof(s))
