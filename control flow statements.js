@@ -4,7 +4,6 @@
 // 2)Looping Statements
 // 3)Jumping Statemnts
 
-
 // Conditional Statements
 // 1)if
 var a=2
