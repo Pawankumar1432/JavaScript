@@ -4,7 +4,6 @@
 //Trivial Data type
 //Non-Primitive Data type
 
-
 //Primitive
 //number
 var a=123
