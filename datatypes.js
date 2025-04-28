@@ -12,7 +12,6 @@ console.log(typeof(a))
 
 //Stings
 var name="Pavan"
-var name1="kumar"
 console.log(name)
 console.log(typeof(name))
 
