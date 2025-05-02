@@ -100,7 +100,7 @@ console.log("16. trimStart():", str.trimStart());
 console.log("17. trimEnd():", str.trimEnd());
 
 // // 18. split()
-// console.log("18. split(' '):", sample.split(" "));
+console.log("18. split(' '):", sample.split(" "));
 
 // // 19. repeat()
 // console.log("19. repeat(3):", "Hi ".repeat(3));
