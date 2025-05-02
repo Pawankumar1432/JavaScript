@@ -34,7 +34,7 @@ console.log("10. endsWith('World'):", sample.endsWith("World"));
 // 11. replace()
 console.log("11. replace('World', 'JS'):", sample.replace("World", "JS"));
 
-// 12. replaceAll() – ES2021+
+// 12. replaceAll() – 
 const text2 = "foo bar foo bar";
 console.log("12. replaceAll('foo', 'baz'):", text2.replaceAll("foo", "baz"));
 
