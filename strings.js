@@ -94,7 +94,7 @@ console.log("15. trim():", str.trim());
 
 
 // // 16. trimStart()
-// console.log("16. trimStart():", str.trimStart());
+console.log("16. trimStart():", str.trimStart());
 
 // // 17. trimEnd()
 // console.log("17. trimEnd():", str.trimEnd());
