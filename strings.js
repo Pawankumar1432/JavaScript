@@ -103,7 +103,7 @@ console.log("17. trimEnd():", str.trimEnd());
 console.log("18. split(' '):", sample.split(" "));
 
 // // 19. repeat()
-// console.log("19. repeat(3):", "Hi ".repeat(3));
+console.log("19. repeat(3):", "Hi ".repeat(3));
 
 // // 20. match()
 // const numbers = "abc123xyz456";
