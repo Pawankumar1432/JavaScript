@@ -106,8 +106,8 @@ console.log("18. split(' '):", sample.split(" "));
 console.log("19. repeat(3):", "Hi ".repeat(3));
 
 // // 20. match()
-// const numbers = "abc123xyz456";
-// console.log("20. match(/\\d+/g):", numbers.match(/\d+/g));
+ const numbers = "abc123xyz456";
+ console.log("20. match(/\\d+/g):", numbers.match(/\d+/g));
 
 // // 21. matchAll()
 // const iterator = [...numbers.matchAll(/\d+/g)];
