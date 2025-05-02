@@ -97,7 +97,7 @@ console.log("15. trim():", str.trim());
 console.log("16. trimStart():", str.trimStart());
 
 // // 17. trimEnd()
-// console.log("17. trimEnd():", str.trimEnd());
+console.log("17. trimEnd():", str.trimEnd());
 
 // // 18. split()
 // console.log("18. split(' '):", sample.split(" "));
